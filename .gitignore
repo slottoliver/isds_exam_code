@@ -1,0 +1,11 @@
+env/
+sec_data/
+cnn_data/
+price_data/
+LaTex/
+images/
+data/
+exam_nb.ipynb
+_data_for_git.ipynb
+__pycache__/
+.DS_Store
